@@ -7,6 +7,7 @@ import javax.swing.JButton;
 public class Appy extends javax.swing.JFrame {
     public Appy() {
         initComponents();
+        System.out.println("That's the fork");
     }
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
